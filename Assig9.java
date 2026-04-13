@@ -72,3 +72,5 @@ public class Assig9 {
 * 3. Establish connection
 * 4. Create statement
 * 5. Queries  */
+
+//I DID SOME CHANGES OMFG
